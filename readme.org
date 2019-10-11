@@ -1,0 +1,2 @@
+* Package for python functions
+  This package contains functions useful for many different purposes.
